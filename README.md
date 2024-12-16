@@ -9,9 +9,9 @@
 
 - 😄 Pronouns: **He/Him.**
 
-- 📫 How to reach me **You can reach me via email at omdasbaniya@gmail.com or connect with me on LinkedIn at linkedin.com/in/om-babu-das-baniya**
+- 📫 How to reach me: **You can reach me via email at omdasbaniya@gmail.com or connect with me on LinkedIn at linkedin.com/in/om-babu-das-baniya**
 
-- ⚡ Fun fact **I enjoy solving data structures and algorithm problems and playing cricket in my free time.**
+- ⚡ Fun fact: **I enjoy solving data structures and algorithm problems and playing cricket in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
