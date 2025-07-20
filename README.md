@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om babu das baniya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-baniya&label=Profile%20views&color=0e75b6&style=flat" alt="om-baniya" /> </p>
 
-- 🔭 I’m interested in **MERN stack development, web development, and software engineering.**
-
-- 🌱 I’m currently learning **React patterns and Node.js frameworks like Express.**
-
-- 👯 I’m looking to collaborate on **interesting MERN stack projects where I can contribute and learn from others.**
-
 - 😄 Pronouns: **He/Him.**
 
 - 📫 How to reach me: **You can reach me via email at omdasbaniya@gmail.com or connect with me on LinkedIn at linkedin.com/in/om-babu-das-baniya**
